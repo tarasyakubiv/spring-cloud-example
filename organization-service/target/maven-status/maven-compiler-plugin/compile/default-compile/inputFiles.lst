@@ -1,0 +1,11 @@
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/model/Organization.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/events/source/SimpleSourceBean.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/repository/OrganizationRepository.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContextInterceptor.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContextFilter.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/security/ResourceServerConfiguration.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/controllers/OrganizationServiceController.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContext.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/Application.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/services/OrganizationService.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/organization-service/src/main/java/com/thoughtmechanix/organization/event/models/OrganizationChangeModel.java

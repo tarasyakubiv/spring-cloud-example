@@ -1,0 +1,7 @@
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/model/UserInfo.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/TrackingFilter.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/ResponseFilter.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/model/AbTestingRoute.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/SpecialRoutesFilter.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/ZuulServerApplication.java
+/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/FilterUtils.java
