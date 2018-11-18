@@ -1,7 +1,0 @@
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/model/UserOrganization.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/repository/OrgUserRepository.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/InspectHeaderFilter.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/Application.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/security/WebSecurityConfigurer.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/security/OAuth2Config.java
-/home/tarasyakubiv/code/JAVA/Microservices/local/spring-cloud-example/authentication-service/src/main/java/com/thoughtmechanix/authentication/config/ServiceConfig.java
